@@ -1,0 +1,521 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856079
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856078
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856077
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856080
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856081
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856082
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856283
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856285
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856287
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="CANAIS FILMES",ARTE 1 HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856090
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856083
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856085
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856087
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS",BAND SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856507
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD" tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/Band-Logo-1.png" group-title="CANAIS ABERTOS",BAND HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856509
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856483
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856485
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856640
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856642
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="BIS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856644
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG
+http://neonp2p.com:25461/guijandira/12gui34jan/856580
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG HD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856582
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="CANAL BRASIL HD" tvg-logo="https://pt.wikipedia.org/wiki/Canal_Brasil#/media/Ficheiro:CanalBrasil_logos_700px_0-03.png" group-title="CANAIS ENTRETENIMENTO",CANAL BRASIL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856652
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY HD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856654
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY SD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856653
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856655
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856825
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA  HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856824
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856656
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA ²" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA ²
+http://neonp2p.com:25461/guijandira/12gui34jan/856823
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856585
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856587
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856094
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856096
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856488
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856490
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856492
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856187
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856189
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856191
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856657
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856659
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856661
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856038
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856040
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856042
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856590
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856592
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856047
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856045
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856049
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856051
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856053
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856055
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856057
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856059
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856062
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856064
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856595
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856597
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856600
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856602
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD" tvg-logo="https://www.logolynx.com/images/logolynx/s_a8/a8352d07ba7106c58d6485dcdc06c4df.png" group-title="CANAIS INFANTIL",DISNEY XD SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856605
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856663
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856665
+#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="FISH TV HD" tvg-logo="http://vipeiptv.com:25461/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS ENTRETENIMENTO",FISH TV HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856669
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856676
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856674
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856672
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="CANAIS FILMES",FOX HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856100
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856682
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856680
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856678
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856106
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856104
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856111
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856109
+#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS ENTRETENIMENTO",FUTURA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856684
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856117
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856115
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856113
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="GLOBOS SAO PAULO ",GLOBO AMAZÔNICA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856358
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856364
+#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856362
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856372
+#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856370
+#EXTINF:-1 tvg-id="TV Centro América Cuiabá" tvg-name="GLOBO CUAIBÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="GLOBOS CUIABA",GLOBO CUAIBÁ SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856375
+#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856378
+#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856376
+#EXTINF:-1 tvg-id="EPTV Ribeirão Preto" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV RIBEIRÃO PRETO SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856381
+#EXTINF:-1 tvg-id="EPTV São Carlos" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV SÃO CARLOS
+http://neonp2p.com:25461/guijandira/12gui34jan/856383
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856385
+#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856384
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia HD" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS GOIAIS",GLOBO GOIÂNIA - TV ANHANGUERA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856386
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO NORTE",GLOBO INTER TV CABUGI HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856387
+#EXTINF:-1 tvg-id="Globo HD Minas" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856390
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856388
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS FHD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856397
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856395
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856393
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PERNAMBUCO",GLOBO NORDESTE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856403
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC BLUMENAU HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856406
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC JOINVILLE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856407
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC TV HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856408
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV 4K" tvg-logo="http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV 4K
+http://neonp2p.com:25461/guijandira/12gui34jan/856413
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856412
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856421
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856419
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856417
+#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CURITIBA",GLOBO RPC CURITIBA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856423
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856428
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP SDD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP SDD
+http://neonp2p.com:25461/guijandira/12gui34jan/856426
+#EXTINF:-1 tvg-id="TV Liberal HD Belém" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARA",GLOBO TV LIBERAL BELEM
+http://neonp2p.com:25461/guijandira/12gui34jan/856456
+#EXTINF:-1 tvg-id="Rádio Globo RJ" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856436
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856433
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856431
+#EXTINF:-1 tvg-id="TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM BAURU HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856434
+#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SJRP
+http://neonp2p.com:25461/guijandira/12gui34jan/856438
+#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SOROCABA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856439
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TRIBUNA
+http://neonp2p.com:25461/guijandira/12gui34jan/856440
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS SAO PAULO ",GLOBO TV VANGUARDA SJC
+http://neonp2p.com:25461/guijandira/12gui34jan/856441
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856611
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856609
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT FHD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856689
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856687
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT SD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856685
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856300
+#EXTINF:-1 tvg-id="History 2" tvg-name="H2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856298
+#EXTINF:-1 tvg-id="HBO2 HD" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856323
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856321
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856319
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856329
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856327
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856325
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856317
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856315
+#EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856334
+#EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856332
+#EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856341
+#EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856339
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856313
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856347
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856345
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856353
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856351
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856349
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856357
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856356
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856355
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS DOCUMENTÁRIO",HGTV HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856290
+#EXTINF:-1 tvg-id="The History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856295
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856293
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856068
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856066
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856693
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856691
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856698
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856696
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856123
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856121
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856119
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856703
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856701
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856709
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856706
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEO WILD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856310
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEO WILD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856308
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856305
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856303
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856622
+#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856620
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856627
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856625
+#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="NOVO TEMPO HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO HD ²
+http://neonp2p.com:25461/guijandira/12gui34jan/856827
+#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="NOVO TEMPO ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO ²
+http://neonp2p.com:25461/guijandira/12gui34jan/856826
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856716
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856714
+#EXTINF:-1 tvg-id="Pai Eterno HD" tvg-name="PAI ETERNO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuNu57GZV92MZ605i7iyD-tGJl4u6RtPyfhw&usqp=CAU" group-title="RELIGIÃO",PAI ETERNO SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856828
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT
+http://neonp2p.com:25461/guijandira/12gui34jan/856125
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856127
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BELEM" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BELEM
+http://neonp2p.com:25461/guijandira/12gui34jan/856533
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BH HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BH HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856519
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD DF HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD DF HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856521
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD MINAS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD MINAS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856537
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS",RECORD NEWS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856503
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD RS HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856522
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD RS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856541
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856515
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SP HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SP HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856523
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
+http://neonp2p.com:25461/guijandira/12gui34jan/856524
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIÃO",REDE VIDA
+http://neonp2p.com:25461/guijandira/12gui34jan/856829
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDETV!" tvg-logo="http://imguol.com/blogs/31/files/2015/12/redetv1.png" group-title="CANAIS ABERTOS",REDETV!
+http://neonp2p.com:25461/guijandira/12gui34jan/856525
+#EXTINF:-1 tvg-id="" tvg-name="Religioso 1" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO",Religioso 1
+http://neonp2p.com:25461/guijandira/12gui34jan/925549
+#EXTINF:-1 tvg-id="" tvg-name="religioso 2" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO",religioso 2
+http://neonp2p.com:25461/guijandira/12gui34jan/925550
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://www.portaldemidia.ufms.br/wp-content/uploads/2016/04/LOGO_RIT1.png" group-title="CANAIS ABERTOS",RIT
+http://neonp2p.com:25461/guijandira/12gui34jan/856526
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856529
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856845
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856527
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856137
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856135
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856133
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS FILMES",STUDIO UNIVERSAL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856140
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856148
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856146
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
+http://neonp2p.com:25461/guijandira/12gui34jan/855992
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
+http://neonp2p.com:25461/guijandira/12gui34jan/855994
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/855996
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856004
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856006
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856008
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856016
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856018
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856020
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="CANAIS FILMES",TCM SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856154
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT SD
+http://neonp2p.com:25461/guijandira/12gui34jan/855998
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856000
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856002
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856010
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856012
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856014
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856022
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856024
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856026
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT FHD
+http://neonp2p.com:25461/guijandira/12gui34jan/856165
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856163
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856161
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856169
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856167
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856631
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA  SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856830
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856832
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA ²
+http://neonp2p.com:25461/guijandira/12gui34jan/856831
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856807
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856808
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS ABERTOS",TV CÂMARA
+http://neonp2p.com:25461/guijandira/12gui34jan/856554
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIÃO",TV EVANGELIZAR
+http://neonp2p.com:25461/guijandira/12gui34jan/856833
+#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="TV NOVO TEMPO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",TV NOVO TEMPO  SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856834
+#EXTINF:-1 tvg-id="TV Rá Tim Bum HD" tvg-name="TV RÁ-TIM-BUM SSD" tvg-logo="http://vipeiptv.com:25461/images/a767a5d1c07ee94c45d2e34689e4ad79.png" group-title="CANAIS INFANTIL",TV RÁ-TIM-BUM SSD
+http://neonp2p.com:25461/guijandira/12gui34jan/856635
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
+http://neonp2p.com:25461/guijandira/12gui34jan/856555
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856174
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856172
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856738
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856736
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856179
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856177
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856734
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
+http://neonp2p.com:25461/guijandira/12gui34jan/856732
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY HD" tvg-logo="http://vipeiptv.com:25461/images/2cfaec21dea9935fac8177867adde7a7.png" group-title="ADULTO",XXX: PLAYBOY HD
+http://neonp2p.com:25461/guijandira/12gui34jan/856558
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sextreme.png" group-title="ADULTO",XXX: SEXTREME
+http://neonp2p.com:25461/guijandira/12gui34jan/863553
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/venus.png" group-title="ADULTO",XXX: VENUS
+http://neonp2p.com:25461/guijandira/12gui34jan/863558
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS INFANTIL",ZOOMOO
+http://neonp2p.com:25461/guijandira/12gui34jan/856639
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 01
+http://neonp2p.com:25461/guijandira/12gui34jan/956729
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 02
+http://neonp2p.com:25461/guijandira/12gui34jan/956730
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 03
+http://neonp2p.com:25461/guijandira/12gui34jan/956731
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 04
+http://neonp2p.com:25461/guijandira/12gui34jan/956732
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 05
+http://neonp2p.com:25461/guijandira/12gui34jan/956733
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 06
+http://neonp2p.com:25461/guijandira/12gui34jan/956734
+#EXTINF:-1 tvg-id="" tvg-name="EXERCICIOS" tvg-logo="https://oxigenioacademia.com.br/wp-content/uploads/2016/02/aula-gratis_slide_02.png" group-title="CANAIS EXERCICIOS",EXERCICIOS
+http://neonp2p.com:25461/guijandira/12gui34jan/981562
+#EXTINF:-1 tvg-id="" tvg-name="ZUMBA" tvg-logo="https://i.pinimg.com/originals/4a/28/f1/4a28f1ec9ebfd1d6b652ab45f4b69533.png" group-title="CANAIS EXERCICIOS",ZUMBA
+http://neonp2p.com:25461/guijandira/12gui34jan/981563
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV SENADO" tvg-logo="http://01.perfeita.in:80/images/eff99352da9aa359f20d6bd9a2dc1127.jpg" group-title="CANAIS ABERTOS",TV SENADO
+http://neonp2p.com:25461/guijandira/12gui34jan/981564
